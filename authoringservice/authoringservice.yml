@@ -1,4 +1,4 @@
-example.property: "I AM IN THE DEFAULT. TRULY AM I IN THE AUTHORING SERVICE?"
+author.property: "I AM IN THE DEFAULT. TRULY AM I IN THE AUTHORING SERVICE?"
 spring.jpa.database: "POSTGRESQL"
 spring.datasource.platform:  "postgres"
 spring.jpa.show-sql: "true"
